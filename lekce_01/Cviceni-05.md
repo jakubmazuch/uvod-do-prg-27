@@ -10,22 +10,12 @@ $$
 
 Program vypočítá a vypíše:
 
-1. vektorový součin
-   $$
-   \vec{w} = \vec{u} \times \vec{v};
-   $$
-2. skalární součin
-   $$
-   \vec{u} \cdot \vec{v};
-   $$
-3. délku vektoru $\vec{w}$
-   $$
-   |\vec{w}|;
-   $$
-4. úhel $\varphi$ mezi vektory $\vec{u}$ a $\vec{v}$
-   $$
-   \varphi = \arccos\left(\frac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|}\right).
-   $$
+1. vektorový součin $\vec{w} = \vec{u} \times \vec{v}$;
+2. skalární součin $\vec{u} \cdot \vec{v}$;
+3. délku vektoru $\vec{w}$, tedy $|\vec{w}|$;
+4. úhel $\varphi$ mezi vektory $\vec{u}$ a $\vec{v}$, kde
+
+   $\varphi = \arccos\left(\dfrac{\vec{u} \cdot \vec{v}}{|\vec{u}| \cdot |\vec{v}|}\right)$.
 
 Při výpočtech vhodně využijte cyklus.
 

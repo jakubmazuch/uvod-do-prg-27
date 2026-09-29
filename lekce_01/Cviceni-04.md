@@ -49,18 +49,9 @@ $$
 
 Program vypočítá a vypíše:
 
-1. vektorový součin
-   $$
-   \vec{w} = \vec{u} \times \vec{v};
-   $$
-2. skalární součin
-   $$
-   \vec{u} \cdot \vec{v};
-   $$
-3. délku vektoru $\vec{w}$
-   $$
-   |\vec{w}|.
-   $$
+1. vektorový součin $\vec{w} = \vec{u} \times \vec{v}$;
+2. skalární součin $\vec{u} \cdot \vec{v}$;
+3. délku vektoru $\vec{w}$, tedy $|\vec{w}|$.
 
 ## 5. Bankomat se seznamem
 
