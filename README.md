@@ -6,7 +6,7 @@
 
 - **Přednášky:** doc. Ing. Tomáš Bayer, Ph.D.  
   pondělí 11:30–13:00, učebna G2
-- **Cvičení:** PhDr. Ing. Jakub Mazuch  
+- **Cvičení:** PhDr. Jakub Mazuch  
   čtvrtek 14:00–15:30, učebna Z3
 
 ### Kontakt
