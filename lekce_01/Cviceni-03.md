@@ -82,7 +82,7 @@ Bez použití cyklu:
 4. doplňte vybranému studentovi body za čtvrtý test;
 5. vypočítejte součet a průměr bodů jednoho vybraného studenta.
 
-## 6. Závěrečný úkol – geografický bod
+## 6. Geografický bod
 
 Vytvořte slovník popisující geografický bod. Musí obsahovat:
 
