@@ -1,11 +1,5 @@
 # Cvičení 1 (1. 10. 2026) – Úvodní seminář, Python a Visual Studio Code
 
-## Cíl cvičení
-
-Cílem je připravit vývojové prostředí, seznámit se se základním pracovním postupem ve Visual Studio Code a vytvořit, spustit a upravit první program v jazyce Python.
-
-> **Časová dotace:** 90 minut. Jednotlivé kroky provádějte postupně podle pokynů vyučujícího.
-
 ## 1. Seznámení s organizací kurzu
 
 Seznamte se s požadavky kurzu, způsobem odevzdávání úloh, pravidly hodnocení a umístěním studijních materiálů.
@@ -97,9 +91,3 @@ $$
 
 Pro převod načteného textu na číslo použijte funkci `float()`.
 
-## Kontrolní otázky
-
-1. Jaký je rozdíl mezi Pythonem a Visual Studio Code?
-2. Co je zdrojový soubor a jakou příponu používá?
-3. Jak lze spustit program z integrovaného terminálu?
-4. Proč je nutné výsledek funkce `input()` před početní operací převést na číslo?

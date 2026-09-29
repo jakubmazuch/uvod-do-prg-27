@@ -1,11 +1,5 @@
 # Cvičení 10 (17. 12. 2026) – Objektově orientované programování II
 
-## Cíl cvičení
-
-Cílem je navázat na základní tvorbu tříd a procvičit **zapouzdření**, **dědičnost**, **přepisování metod**, **polymorfismus** a **kompozici objektů**. Všechny části vytvoří jeden jednoduchý model meteorologické stanice.
-
-> **Časová dotace:** 90 minut. Nejprve dokončete základní třídy a jejich testování. Rozšiřující úloha je určena pro rychlejší studenty.
-
 ## 1. Obecný senzor
 
 Vytvořte základní třídu `Senzor`.
@@ -86,12 +80,3 @@ Srážky: 0.4 mm
 ```
 
 Ošetřete případnou chybu při zápisu do souboru a uživateli vypište srozumitelnou zprávu.
-
-## Kontrolní otázky
-
-Po dokončení úloh si připravte stručnou odpověď:
-
-1. Co dědí potomek od rodičovské třídy?
-2. Co znamená přepsání metody?
-3. Jak se v úloze projevuje polymorfismus?
-4. Proč je vztah mezi stanicí a senzory vhodnější modelovat kompozicí než dědičností?

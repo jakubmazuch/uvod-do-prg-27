@@ -1,6 +1,6 @@
 # Cvičení 6 (12. 11. 2026) – Funkce, rekurze
 
-## 1. Bankomat pomocí cyklů – domácí úkol
+## 1. Bankomat pomocí cyklů
 
 Dokončete úlohu **Bankomat pomocí cyklů** z Cvičení 5. Řešení rozdělte alespoň do jedné vhodně pojmenované funkce s parametry a návratovou hodnotou.
 
@@ -33,7 +33,7 @@ Vytvořte funkci, která pro zadaný celočíselný limit vrátí seznam všech 
 
 Výsledný seznam prvočísel následně vypište.
 
-## 5. Mřížky v želví grafice – domácí úkol
+## 5. Mřížky v želví grafice
 
 Pomocí modulu `turtle` vytvořte program, který vykreslí následující mřížky:
 
@@ -60,13 +60,3 @@ Program vhodně rozdělte do funkcí. Funkce musí umožnit měnit alespoň veli
 
 ![Ukázka šestiúhelníkové mřížky](cviceni-06-assets/sestiuhelnikova-mrizka.png)
 
-## Zápočtový úkol 1 – síť kartografického zobrazení
-
-Vykreslete síť kartografického zobrazení. Program musí umožnit zadat následující parametry:
-
-- `u_min`, `u_max`, `v_min`, `v_max`;
-- rozsah zeměpisné šířky a zeměpisné délky;
-- krok poledníků a rovnoběžek;
-- rozsah vzorkování – tento parametr se neprojeví u polárních zobrazení, ale projeví se u azimutálních zobrazení.
-
-Řešení rozdělte do vhodně navržených funkcí s jednoznačně určenými parametry a návratovými hodnotami.

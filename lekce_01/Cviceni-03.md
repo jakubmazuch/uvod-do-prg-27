@@ -1,11 +1,5 @@
 # Cvičení 3 (15. 10. 2026) – Dynamické datové struktury
 
-## Cíl cvičení
-
-Cílem je naučit se ukládat více hodnot do jedné proměnné a pracovat se základními kolekcemi v Pythonu. Procvičíte seznamy, n-tice, slovníky a množiny, jejich vytváření, čtení a základní úpravy.
-
-> **Časová dotace:** 90 minut. Úlohy řešte postupně; poslední úloha propojuje všechny probrané struktury.
-
 ## 1. Seznam naměřených teplot
 
 Vytvořte seznam alespoň sedmi naměřených teplot. Bez použití cyklu:
@@ -104,10 +98,3 @@ Program:
 3. vypočítá průměrnou nadmořskou výšku;
 4. přidá novou značku;
 5. vypíše celý aktualizovaný záznam.
-
-## Kontrolní otázky
-
-1. Jak se liší seznam a n-tice?
-2. K čemu ve slovníku slouží klíč?
-3. Proč množina neuchovává duplicitní hodnoty?
-4. Kterou datovou strukturu byste zvolili pro pořadí měření a kterou pro seznam jedinečných kategorií?

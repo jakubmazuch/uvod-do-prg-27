@@ -1,13 +1,5 @@
 # Cvičení 9 (10. 12. 2026) – Objektově orientované programování I
 
-## Cíl cvičení
-
-Cílem je porozumět základnímu smyslu objektově orientovaného programování a naučit se vytvářet jednoduché třídy. Procvičíte pojmy **třída**, **objekt**, **atribut**, **metoda**, **konstruktor** a klíčové slovo `self`.
-
-Objekt spojuje data a operace, které s nimi pracují. Třída představuje společný předpis, podle něhož lze vytvářet více samostatných objektů stejného typu.
-
-> **Časová dotace:** 90 minut. Úlohy řešte postupně; rozšiřující část poslední úlohy je určena pro rychlejší studenty.
-
 ## 1. Bod v rovině
 
 Vytvořte třídu `Bod`, která bude reprezentovat bod v rovině.
@@ -75,12 +67,3 @@ Rozšiřte třídu `Mereni` o atribut `datum`. Přidejte metodu `do_csv()`, kter
 ```
 
 Uložte všechna měření ze seznamu do souboru `mereni.csv`. Každý objekt bude zapsán na samostatném řádku.
-
-## Kontrolní otázky
-
-Po dokončení úloh si připravte stručnou odpověď:
-
-1. Jaký je rozdíl mezi třídou a objektem?
-2. K čemu slouží metoda `__init__()`?
-3. Proč musí mít metody objektu parametr `self`?
-4. V čem je třída `Mereni` přehlednější než několik samostatných seznamů se stanicemi, teplotami a srážkami?
