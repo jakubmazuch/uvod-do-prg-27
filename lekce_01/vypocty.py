@@ -1,0 +1,6 @@
+print(8+3)
+print(8-3)
+print(8*3)
+print(8/4)
+print(8//4)
+print(8%4)
