@@ -1,4 +1,4 @@
-# Cvičení 7 (26. 11. 2026) – Výjimky
+# Předběžný plán cvičení 7 (26. 11. 2026) – Výjimky
 
 ## 1. Fibonacciho čísla
 

@@ -1,4 +1,4 @@
-# Cvičení 4 (22. 10. 2026) – Booleovská logika, úplné a neúplné podmínky `if`, `if–else`
+# Předběžný plán cvičení 4 (22. 10. 2026) – Booleovská logika, úplné a neúplné podmínky `if`, `if–else`
 
 ## 1. Kvadratická rovnice
 

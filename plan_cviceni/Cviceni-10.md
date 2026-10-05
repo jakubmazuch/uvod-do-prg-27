@@ -1,4 +1,4 @@
-# Cvičení 10 (17. 12. 2026) – Objektově orientované programování II
+# Předběžný plán cvičení 10 (17. 12. 2026) – Objektově orientované programování II
 
 ## 1. Obecný senzor
 

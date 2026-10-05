@@ -1,4 +1,4 @@
-# Cvičení 6 (12. 11. 2026) – Funkce, rekurze
+# Předběžný plán cvičení 6 (12. 11. 2026) – Funkce, rekurze
 
 ## 1. Bankomat pomocí cyklů
 

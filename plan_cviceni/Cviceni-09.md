@@ -1,4 +1,4 @@
-# Cvičení 9 (10. 12. 2026) – Objektově orientované programování I
+# Předběžný plán cvičení 9 (10. 12. 2026) – Objektově orientované programování I
 
 ## 1. Bod v rovině
 

@@ -1,4 +1,4 @@
-# Cvičení 3 (15. 10. 2026) – Dynamické datové struktury
+# Předběžný plán cvičení 3 (15. 10. 2026) – Dynamické datové struktury
 
 ## 1. Seznam naměřených teplot
 

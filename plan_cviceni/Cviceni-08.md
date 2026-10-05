@@ -1,4 +1,4 @@
-# Cvičení 8 (3. 12. 2026) – Práce se soubory
+# Předběžný plán cvičení 8 (3. 12. 2026) – Práce se soubory
 
 ## 1. Operace se seznamem
 

@@ -1,4 +1,4 @@
-# Cvičení 5 (5. 11. 2026) – Cykly `for` a `while`, želví grafika
+# Předběžný plán cvičení 5 (5. 11. 2026) – Cykly `for` a `while`, želví grafika
 
 ## 1. Součiny vektorů
 
