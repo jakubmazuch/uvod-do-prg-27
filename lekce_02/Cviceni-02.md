@@ -1,6 +1,16 @@
 # Cvičení 2 (8. 10. 2026) – Datové typy, čísla a jejich reprezentace, proměnná, příkaz
 
-## 1. Kalkulačka
+## 1. Řešení domácího úkolu
+
+Vytvořte soubor `prevod_teploty.py`. Uživatel zadá teplotu ve stupních Celsia a program vypíše odpovídající teplotu ve stupních Fahrenheita podle vztahu
+
+$$
+F = \frac{9}{5}C + 32.
+$$
+
+Pro převod načteného textu na číslo použijte funkci `float()`.
+
+## 2. Kalkulačka
 
 Uživatel zadá dvě čísla `x` a `y`. Program vypíše výsledky následujících operací:
 
@@ -8,7 +18,7 @@ Uživatel zadá dvě čísla `x` a `y`. Program vypíše výsledky následujíc�
 - rozdíl `x - y`,
 - součin `x * y`.
 
-## 2. Bankomat
+## 3. Bankomat
 
 Uživatel zadá libovolnou celočíselnou částku. Program simuluje výdej hotovosti z bankomatu a vypíše počet jednotlivých bankovek a mincí, které klientovi vydá.
 
@@ -18,7 +28,7 @@ Uvažujte následující nominální hodnoty:
 
 > **Omezení:** Nepoužívejte cykly, podmínky ani seznamy. Tyto konstrukce budeme probírat později.
 
-## 3. DMS – stupně, minuty a sekundy
+## 4. DMS – stupně, minuty a sekundy
 
 Vytvořte program, který převede úhlovou míru:
 
@@ -31,7 +41,7 @@ $$
 78^\circ 12' 29'' \approx 78{,}20805555555556^\circ
 $$
 
-## 4. Zaokrouhlování
+## 5. Zaokrouhlování
 
 Vytvořte program pro zaokrouhlování reálných čísel na zadaný počet desetinných míst. Uvažujte také záporná čísla.
 
