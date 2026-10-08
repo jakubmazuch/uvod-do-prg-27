@@ -1,0 +1,5 @@
+x = float(input("Zadej hodnotu x: "))
+y = float(input("Zadej hodnotu y: "))
+print(x, "+", y, "=", x+y)
+print(x, "-", y, "=", x-y)
+print(x, "×", y, "=", x*y)
