@@ -38,4 +38,4 @@
 ## Podmínky udělení zápočtu
 
 - aktivní účast na cvičeních; povoleny jsou nejvýše **dvě neomluvené absence**;
-- odevzdání a obhajoba zápočtových úloh.
+- odevzdání zápočtových úloh prostřednictvím [Google Classroom](https://classroom.google.com/c/ODg5OTI1OTk4NTgx?cjc=snouo7jd) a jejich obhajoba.

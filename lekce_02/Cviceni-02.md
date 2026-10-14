@@ -41,7 +41,7 @@ $$
 78^\circ 12' 29'' \approx 78{,}20805555555556^\circ
 $$
 
-## 5. Zaokrouhlování
+## 5. Zaokrouhlování (Zkuste doma samostatně)
 
 Vytvořte program pro zaokrouhlování reálných čísel na zadaný počet desetinných míst. Uvažujte také záporná čísla.
 

@@ -1,6 +1,23 @@
-# Předběžný plán cvičení 3 (15. 10. 2026) – Dynamické datové struktury
+# Cvičení 3 (15. 10. 2026) – Dynamické datové struktury
 
-## 1. Seznam naměřených teplot
+## 1. Zaokrouhlování (DÚ)
+
+Vytvořte program pro zaokrouhlování reálných čísel na zadaný počet desetinných míst. Uvažujte také záporná čísla.
+
+**Příklad vstupu:**
+
+```text
+cislo = 13.568842
+pocet_desetinnych_mist = 2
+```
+
+**Příklad výstupu:**
+
+```text
+13.57
+```
+
+## 2. Seznam naměřených teplot
 
 Vytvořte seznam alespoň sedmi naměřených teplot. Bez použití cyklu:
 
@@ -14,7 +31,7 @@ Vytvořte seznam alespoň sedmi naměřených teplot. Bez použití cyklu:
 
 Nakonec vypište počet měření, nejnižší a nejvyšší teplotu.
 
-## 2. Souřadnice bodu a n-tice
+## 3. Souřadnice bodu a n-tice
 
 Souřadnice bodu v prostoru uložte jako n-tici:
 
@@ -33,7 +50,7 @@ $$
 d = \sqrt{x^2 + y^2 + z^2}.
 $$
 
-## 3. Slovník meteorologické stanice
+## 4. Slovník meteorologické stanice
 
 Údaje o jednom měření uložte do slovníku s klíči `stanice`, `teplota`, `vlhkost` a `srazky`.
 
@@ -44,7 +61,7 @@ $$
 5. Vypište všechny klíče a následně všechny hodnoty slovníku.
 6. Pomocí metody `get()` bezpečně zjistěte hodnotu klíče `vitr`, který ve slovníku nemusí existovat.
 
-## 4. Množiny studijních předmětů
+## 5. Množiny studijních předmětů
 
 Dva studenti mají zapsané předměty:
 
@@ -62,7 +79,7 @@ Pomocí množinových operací určete:
 
 Přidejte studentovi A nový předmět a jeden původní předmět odeberte.
 
-## 5. Evidence bodů studentů
+## 6. Evidence bodů studentů
 
 Vytvořte slovník, jehož klíčem je jméno studenta a hodnotou seznam bodů ze tří krátkých testů.
 
@@ -82,7 +99,7 @@ Bez použití cyklu:
 4. doplňte vybranému studentovi body za čtvrtý test;
 5. vypočítejte součet a průměr bodů jednoho vybraného studenta.
 
-## 6. Geografický bod
+## 7. Geografický bod
 
 Vytvořte slovník popisující geografický bod. Musí obsahovat:
 
