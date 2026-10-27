@@ -57,32 +57,8 @@ Program:
 4. přidá novou značku;
 5. vypíše celý aktualizovaný záznam.
 
-## 6. Minimum a maximum
+## 4. Minimum a maximum
 
 Uživatel zadá tři různé číselné hodnoty. Program určí a vypíše jejich minimum a maximum.
 
 > **Omezení:** Nepoužívejte vestavěné funkce `min()` ani `max()`.
-
-## 7. Součiny vektorů
-
-Uživatel zadá dva vektory v prostoru, tedy dva seznamy se třemi souřadnicemi:
-
-$$
-\vec{u} = (u_1, u_2, u_3), \qquad \vec{v} = (v_1, v_2, v_3).
-$$
-
-Program vypočítá a vypíše:
-
-1. vektorový součin $\vec{w} = \vec{u} \times \vec{v}$;
-2. skalární součin $\vec{u} \cdot \vec{v}$;
-3. délku vektoru $\vec{w}$, tedy $|\vec{w}|$.
-
-## 8. Bankomat se seznamem
-
-Vyřešte znovu úlohu **Bankomat** z Cvičení 2. Uživatel zadá libovolnou celočíselnou částku a program vypíše počet jednotlivých bankovek a mincí, které klientovi vydá.
-
-Nominální hodnoty uložte do seznamu:
-
-```python
-[5000, 2000, 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
-```

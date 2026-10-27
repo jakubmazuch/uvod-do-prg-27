@@ -1,6 +1,6 @@
 # Cvičení 4 (22. 10. 2026) – Booleovská logika, úplné a neúplné podmínky `if`, `if–else`
 
-## 4. Kvadratická rovnice
+## 1. Kvadratická rovnice
 
 Uživatel zadá koeficienty `a`, `b` a `c`. Program vypočítá a vypíše kořeny rovnice
 
@@ -19,7 +19,7 @@ Program musí vhodně reagovat na zadané hodnoty a nesmí předpokládat, že u
    - diskriminant $D = b^2 - 4ac$ je záporný.
 2. Upravte program tak, aby dokázal vypočítat a vypsat také komplexní kořeny.
 
-## 5. Počet číslic
+## 2. Počet číslic
 
 Uživatel zadá celé číslo `a`. Program vypíše, zda je číslo:
 

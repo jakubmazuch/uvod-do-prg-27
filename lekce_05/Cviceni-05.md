@@ -58,3 +58,13 @@ Při vykreslování opakujících se částí použijte cyklus.
 Uživatel zadá text. Program jej vypíše v opačném pořadí znaků.
 
 > **Omezení:** Úlohu vyřešte pomocí cyklu. Nepoužívejte řez `[::-1]` ani funkci `reversed()`.
+
+## 6. Bankomat se seznamem
+
+Vyřešte znovu úlohu **Bankomat** z Cvičení 2. Uživatel zadá libovolnou celočíselnou částku a program vypíše počet jednotlivých bankovek a mincí, které klientovi vydá.
+
+Nominální hodnoty uložte do seznamu:
+
+```python
+[5000, 2000, 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
+```
