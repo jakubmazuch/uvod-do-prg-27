@@ -1,10 +1,26 @@
-# Předběžný plán cvičení 6 (12. 11. 2026) – Funkce, rekurze
+# Předběžný plán cvičení 6 (12. 11. 2026) – Funkce, rekurze, želví grafika
 
-## 1. Bankomat pomocí cyklů
+## 1. Text pozpátku
+
+Uživatel zadá text. Program jej vypíše v opačném pořadí znaků.
+
+> **Omezení:** Úlohu vyřešte pomocí cyklu. Nepoužívejte řez `[::-1]` ani funkci `reversed()`.
+
+## 2. Želví grafika
+
+Pomocí modulu `turtle` postupně vykreslete:
+
+1. čtverec;
+2. pravidelný pětiúhelník;
+3. spirálu.
+
+Při vykreslování opakujících se částí použijte cyklus.
+
+## 3. Bankomat pomocí cyklů
 
 Dokončete úlohu **Bankomat pomocí cyklů** z Cvičení 5. Řešení rozdělte alespoň do jedné vhodně pojmenované funkce s parametry a návratovou hodnotou.
 
-## 2. Hledání minima a maxima
+## 4. Hledání minima a maxima
 
 Vytvořte funkci, která v zadaném seznamu čísel nalezne minimum a maximum s použitím cyklu a podmínek.
 
@@ -12,7 +28,7 @@ Vytvořte funkci, která v zadaném seznamu čísel nalezne minimum a maximum s 
 
 Funkce vrátí obě nalezené hodnoty. Její funkčnost ověřte alespoň na třech různých seznamech, včetně seznamu obsahujícího záporná čísla.
 
-## 3. Faktoriál
+## 5. Faktoriál
 
 Vytvořte program, který po zadání nezáporného celého čísla $n$ vypočítá jeho faktoriál:
 
@@ -27,13 +43,13 @@ Implementujte dvě varianty řešení:
 
 Program musí vhodně reagovat na zadání záporného čísla.
 
-## 4. Eratosthenovo síto
+## 6. Eratosthenovo síto
 
 Vytvořte funkci, která pro zadaný celočíselný limit vrátí seznam všech prvočísel menších než tento limit. Použijte algoritmus Eratosthenova síta.
 
 Výsledný seznam prvočísel následně vypište.
 
-## 5. Mřížky v želví grafice
+## 7. Mřížky v želví grafice
 
 Pomocí modulu `turtle` vytvořte program, který vykreslí následující mřížky:
 
