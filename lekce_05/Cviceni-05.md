@@ -60,7 +60,7 @@ Uživatel opakovaně hádá číslo a program po každém pokusu vypíše, zda j
 
 V případě správného tipu program vypíše `BINGO` a ukončí se.
 
-## 6. Množiny studijních předmětů
+## DÚ1. Množiny studijních předmětů
 
 Dva studenti mají zapsané předměty:
 
@@ -78,7 +78,7 @@ Pomocí množinových operací určete:
 
 Přidejte studentovi A nový předmět a jeden původní předmět odeberte.
 
-## 7. Geografický bod
+## DÚ2. Geografický bod
 
 Vytvořte slovník popisující geografický bod. Musí obsahovat:
 
@@ -95,7 +95,7 @@ Program:
 4. přidá novou značku;
 5. vypíše celý aktualizovaný záznam.
 
-## 8. Součiny vektorů
+## DÚ3. Součiny vektorů
 
 Uživatel zadá dva vektory v prostoru, tedy dva seznamy se třemi souřadnicemi:
 
